@@ -13,8 +13,7 @@ Este repositorio contiene varios proyectos organizados por proveedor de nube. Ca
 - **Azure**: Servicios de computación en la nube de Microsoft.
 - **Google Cloud**: Servicios de computación en la nube de Google.
 
-- 
-## Contacto 😀📧
+## Contacto 📞📧
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto conmigo a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/ignacio-rosas-sanchez/).
 
 ¡Gracias por visitar mi repositorio!🙌
